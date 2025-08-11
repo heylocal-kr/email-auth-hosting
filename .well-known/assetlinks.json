@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.heylocal_app",
+    "sha256_cert_fingerprints": ["5A:46:42:74:85:6F:B1:4E:22:AE:55:9B:94:DD:78:2A:04:60:79:71:B4:09:89:BB:94:32:42:C7:A5:98:20:20"]
+  }
+}]
