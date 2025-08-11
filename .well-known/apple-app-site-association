@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["YOUR_TEAM_ID.com.example.heylocalApp"],
+        "components": [
+          {
+            "/": "/verified/*",
+            "comment": "Matches all /verified/ paths"
+          }
+        ]
+      }
+    ]
+  }
+}
