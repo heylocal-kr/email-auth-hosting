@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["YOUR_TEAM_ID.com.example.heylocalApp"],
+        "appIDs": ["NU3Z4HX4N6.kr.heylocal.app"],
         "components": [
           {
             "/": "/verified/*",
